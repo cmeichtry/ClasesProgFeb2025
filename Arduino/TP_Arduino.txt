@@ -1,0 +1,1 @@
+Diseñar un calentador con control de temperatura, el cuál consiste en un sensor de temperatura simulado por un potenciometro y 2 botones para seleccionar la temperatura y una resistencia calefactora simulada por un led.
